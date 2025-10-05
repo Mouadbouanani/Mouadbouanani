@@ -68,7 +68,10 @@
   <a href="https://www.datacamp.com/statement-of-accomplishment/course/379f5d23bc8f6aa85a66effbf7abf2f9ec52a8b2?raw=1"><img src="https://img.shields.io/badge/%20UNDERSTANDING%20CLOUD%20COMPUTING-4285F4?style=for-the-badge&logoColor=white" alt="Cloud Computing"/></a>
   <a href="https://www.datacamp.com/statement-of-accomplishment/course/bc647eddf1d58d6abe6facbddcb891a8a06244a5?raw=1"><img src="https://img.shields.io/badge/%20AWS%20CLOUD%20TECHNOLOGY-232F3E?style=for-the-badge&logoColor=white" alt="AWS Technology"/></a>
 </p>
+
 ---
+
+
 ##  About Me
 
 Engineering student at École des Sciences de l'Information (ESI), specializing in Information Systems and Digital Transformation. Strong hands-on experience in full-stack development through projects using Spring Boot, Node.js, Angular, and React. Familiar with Agile methodologies and continuous integration practices.
