@@ -93,7 +93,6 @@ Engineering student at École des Sciences de l'Information (ESI), specializing 
 **Faculty of Sciences Semlalia** - Marrakech, Morocco *(2021 - 2023)*
 - Foundation in mathematics, physics, and computer science
 
-**Baccalaureate** - Bouchane High School, Ben Guerir *(2021)*
 
 ---
 
