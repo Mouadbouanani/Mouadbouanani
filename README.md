@@ -48,8 +48,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/ARABIC%20(NATIVE)-0066CC?style=for-the-badge&logoColor=white" alt="Arabic"/>
-  <img src="https://img.shields.io/badge/FRENCH%20(INTERMEDIATE)-00AA44?style=for-the-badge&logoColor=white" alt="French"/>
-  <img src="https://img.shields.io/badge/ENGLISH%20(INTERMEDIATE)-88CC00?style=for-the-badge&logoColor=white" alt="English"/>
+  <img src="https://img.shields.io/badge/FRENCH%20(Professional)-00AA44?style=for-the-badge&logoColor=white" alt="French"/>
+  <img src="https://img.shields.io/badge/ENGLISH%20(Professional)-88CC00?style=for-the-badge&logoColor=white" alt="English"/>
 </p>
 
 ---
