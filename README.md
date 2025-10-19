@@ -36,7 +36,6 @@
 **Web Development Intern** at ENS Casablanca *(July - September 2024)*
 - Developed and configured ArchUH2 digital archiving platform for Hassan II University using DSpace 8.0
 - Managed academic resources and metadata according to archiving standards
-- Customized user interface using Angular to reflect university's visual identity
 
 **SEO & Digital Marketing Intern** - Remote *(August - September 2025)*
 - Conducted SEO audit and technical optimization of WordPress/WooCommerce site
