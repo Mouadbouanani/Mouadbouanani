@@ -208,15 +208,7 @@ Full-stack e-commerce platform with advanced features.
 - Order and payment tracking
 - Secure authentication and responsive design
 
-### NLP Chatbot
-Rule-based chatbot using Natural Language Processing.
 
-**Tech Stack:** Python, NLTK
-
-**Features:**
-- Natural language understanding
-- Context-aware responses
-- Custom rule implementation
 
 ---
 
