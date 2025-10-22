@@ -24,23 +24,6 @@
   <img src="https://img.shields.io/badge/Technical%20Documentation-E67E22?style=for-the-badge&logoColor=white" alt="Technical Documentation"/>
 </p>
 
----
-
-##  Experience
-
-**MERN Full-Stack Development Intern** at OCP Project, Ben Guerir *(July - August 2025)*
-- Developed a web application for managing weekend/holiday on-call duties for OCP industrial sites
-- Implemented MERN stack architecture with Docker deployment and JWT authentication
-- Achieved 82% test coverage with unit/integration testing using Swagger UI and Postman
-
-**Web Development Intern** at ENS Casablanca *(July - September 2024)*
-- Developed and configured ArchUH2 digital archiving platform for Hassan II University using DSpace 8.0
-- Managed academic resources and metadata according to archiving standards
-
-**SEO & Digital Marketing Intern** - Remote *(August - September 2025)*
-- Conducted SEO audit and technical optimization of WordPress/WooCommerce site
-- Optimized 10+ pages with Yoast/RankMath score > 80%
-- Implemented Morocco-localized keyword strategy for improved organic ranking
 
 ---
 
@@ -80,19 +63,7 @@ Engineering student at École des Sciences de l'Information (ESI), specializing 
 -  Passionate about digital transformation and creating scalable solutions
 -  Experienced with Agile/Scrum methodologies and CI/CD pipelines
 -  Open to software engineering and DevOps opportunities
-
----
-
-##  Education
-
-**École des Sciences de l'Information (ESI)** - Rabat, Morocco *(2023 - Present)*
-- Specialization: Information Systems and Digital Transformation
-- Focus: Full-stack development, software engineering, and digital innovation
-
-**Faculty of Sciences Semlalia** - Marrakech, Morocco *(2021 - 2023)*
-- Foundation in mathematics, physics, and computer science
-
-
+  
 ---
 
 ##  Technical Skills
@@ -161,53 +132,6 @@ Engineering student at École des Sciences de l'Information (ESI), specializing 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
 </p>
-
----
-
-##  Extracurricular Activities
-
-**Member** at **JCMP Maroc**
-- Engaged in social and educational initiatives nationwide
-
-**Active Member** at **JCMESI Club**, École des Sciences de l'Information
-- Participating in organizing academic events and digital awareness projects
-
----
-
-##  Featured Projects
-
-### E-commerce Platform for Natural Products - Taawoniyate
-Mobile and web application for selling natural products from Moroccan cooperatives.
-
-**Tech Stack:** Spring Boot, React Native, Angular, REST API, Swagger, Docker, Git
-
-**Features:**
-- Mobile app for customers
-- Web backoffice for administration
-- Complete e-commerce functionality
-- Agile/Scrum methodology implementation
-
-### Hospital Management Application
-Desktop application for comprehensive hospitalization management.
-
-**Tech Stack:** Spring Boot, JavaFX, PostgreSQL
-
-**Features:**
-- Patient management system
-- Medical procedures tracking
-- Hospital resource management
-
-### E-commerce Website
-Full-stack e-commerce platform with advanced features.
-
-**Tech Stack:** Spring Boot, Angular, PostgreSQL, Git
-
-**Features:**
-- Multi-role user management (Customer, Supplier, Administrator)
-- Product catalog and cart system
-- Order and payment tracking
-- Secure authentication and responsive design
-
 
 
 ---
